@@ -1,0 +1,8 @@
+[package]
+name = "top_systems_entrance"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bresenham = "0.1.1"
+minifb = "0.27.0"
